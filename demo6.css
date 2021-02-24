@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+.row1 {
+    width: ;
+}
+
+.pheader {
+    padding: 30px;
+}
+
+.pcontentbox {
+    padding: 0px 10px;
+}
+
+.bg1 {
+    background-color: black;
+}
+
+.bg2 {
+    background-color: rgb(31, 29, 29);
+}
+
+.bg3 {
+    background-color: #beb8b866;
+}
+
+.fsize {
+    font-size: 22px;
+}
+
+.textcolororange {
+    color: orange;
+}
+
+.textcolor {
+    color: gray;
+}
+
+.textcolorlightg {
+    color: rgb(194, 185, 185);
+}
+
+.textcolorwhite {
+    color: white;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.textright {
+    text-align: right;
+}
+
+.p {
+    padding: 15px;
+}
+
+.pb {
+    padding-bottom: 10px;
+    color: #8080808a;
+}
+
+.pall {
+    padding-right: 30px;
+}
+
+.ml {
+    margin-left: -20px;
+}
+
+.mt {
+    margin: 20px 0px;
+}
+
+.mtcategory {
+    margin: 20px 50px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+.mt50 {
+    margin-top: 50px;
+}
+
+.mr {
+    margin-right: 27px;
+}
+
+.h4 {
+    font-size: 50px;
+}
+
+.li {
+    display: inline;
+    list-style-type: none;
+    padding: 20px 20px;
+}
+
+.licategory {
+    list-style-type: none;
+    padding: 0px 20px;
+}
+
+.fright {
+    float: right;
+}
+
+.fleft {
+    float: left;
+}
+
+.box-2 {
+    margin-top: -50px;
+}
+
+.box2 {
+    margin-top: 50px;
+}
+
+.box-3 {
+    width: 22%;
+}
+
+.col1 {
+    width: 65%;
+}
+
+.box2 {
+    margin-top: 50px;
+}
+
+.col2 {
+    width: 30%;
+}
+
+.bordertop {
+    border-top: 1px solid rgb(194, 185, 185);
+}
+
+.borderbottom {
+    border-bottom: 1px solid#8080808a;
+}
+
+.libbottom {
+    border-bottom: 1px dotted;
+    padding-bottom: 10px;
+}
+
+.fline {
+    padding: 20px 0px;
+    clear: both;
+}
